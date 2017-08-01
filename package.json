@@ -1,0 +1,23 @@
+{
+  "name": "terrapinrobot",
+  "version": "1.0.0",
+  "description": "A playground for messing with Amazon Echo's capabilities.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechMatt1337/TerrapinRoBot.git"
+  },
+  "author": "Matthew Bock & Daniel Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechMatt1337/TerrapinRoBot/issues"
+  },
+  "homepage": "https://github.com/TechMatt1337/TerrapinRoBot#readme"
+}
